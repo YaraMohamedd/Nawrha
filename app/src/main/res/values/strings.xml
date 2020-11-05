@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nawrha</string>
+    <string name="title_activity_main3">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_category">Categories</string>
+    <string name="title_favourite">Favourites</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_product">Product</string>
+</resources>
